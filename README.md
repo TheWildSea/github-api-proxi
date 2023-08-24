@@ -7,6 +7,7 @@ This is a GitHub API Proxy built with Kotlin and Spring Boot.
 - Kotlin 1.5 or higher
 - Gradle 6.x or higher
 - Spring Boot 3.1.2
+- JVM 17 or higher
 
 ## Installation
 
