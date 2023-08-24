@@ -18,7 +18,7 @@ This is a GitHub API Proxy built with Kotlin and Spring Boot.
 
 2. Navigate to the project directory:
     ```
-    cd githubapiproxy
+    cd github-api-proxy
     ```
 
 3. Build the project:
