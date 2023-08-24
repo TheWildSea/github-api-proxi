@@ -13,7 +13,7 @@ This is a GitHub API Proxy built with Kotlin and Spring Boot.
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/githubapiproxy.git
+    git clone https://github.com/TheWildSea/github-api-proxy.git
     ```
 
 2. Navigate to the project directory:
